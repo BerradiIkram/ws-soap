@@ -1,0 +1,3 @@
+# Project exclude paths
+/client-soap/client-soap-java/target/
+/gestion-des-comptes/gestion-des-comptes/target/
